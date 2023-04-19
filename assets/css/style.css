@@ -1,9 +1,10 @@
+/* below are the style rules for all selectors */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/* below are the style rules for elements */
 body {
     background-color: #d9dcd6;
 }
@@ -39,16 +40,13 @@ p {
     font-size: 20px;
 }
 
-.header nav ul {
+.header nav ul li{
     list-style-type: none;
-}
-
-.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
-/* below are style rules for the background image */
+/* below are style rules for the figure */
 .hero {
     height: 800px;
     width: 100%;
@@ -57,7 +55,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-/* below are style rules for the three bottom left content boxes */
+/* below are style rules for the main section */
 .content {
     width: 75%;
     display: inline-block;
@@ -74,7 +72,7 @@ p {
     margin-left: 25px;
 }
 
-.content-block {
+.content section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -92,7 +90,7 @@ p {
     font-size: 36px;
 }
 
-/* below are style rules for the bottom right vertical box */
+/* below are style rules for the aside */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -104,7 +102,7 @@ p {
     background-color: #2589bd;
 }
 
-.benefits-blurb {
+.benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -120,7 +118,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* below are the style rules for the footer */
 .footer {
     padding: 30px;
     clear: both;
