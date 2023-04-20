@@ -7,7 +7,7 @@ This weeks challenge was an on-the-job-ticket. My task was to refractor the exit
 The client was looking to make their existing site more accessible. Accessibility should always be taken into account to ensure equal access to your site.
 Not only does ensure people with disabilities can access the website using assitive technologies but it also helps your site rank higher in search engines. 
 On top of making the website more accessible, I also improved the codebase by increasing the efficiency of the CSS by organizing the selectors and properties to follow the structure of the HTML elements. 
-This project taught me how to create comments in CSS, the benefits of accessibility, and how to improve code without changing the function of the it. 
+This project taught me how to create comments in CSS, the benefits of accessibility, and how to improve code without changing its function. 
 
 ## Installation
 
