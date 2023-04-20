@@ -16,7 +16,16 @@ N/A
 ## Usage
 
 You can use this project to see how easy it is to add accessibility to features to your website without changing the overall style or function. 
+Follow this link to see the final website: https://kris-ramirez.github.io/01Challenge/ 
 
+Below are screenshots of the final website:
+Provide instructions and examples for use. Include screenshots as needed.
+
+To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+
+md
+[Final screenshot of website](assets/images/Final-screen-capture.png)
+  
 ## Credits
 
 My original code came from UTSA Coding Bootcamp. 
