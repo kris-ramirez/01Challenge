@@ -16,7 +16,7 @@ N/A
 ## Usage
 
 You can use this project to see how easy it is to add accessibility to features to your website without changing the overall style or function. 
-Follow this link to see the final website: https://kris-ramirez.github.io/01Challenge/ 
+Follow this link to see the final website: (https://kris-ramirez.github.io/HTML-CSS-Git-Challenge-Code-Refactor/)
 
 Below are screenshots of the final website:
 [Final screenshot of website](assets/images/Final-screen-capture.png)
